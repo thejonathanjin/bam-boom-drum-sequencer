@@ -469,7 +469,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-A major thanks to LeMaster Tech @plemaster01 for initiating and creating the original project!
+A major thanks to LeMaster Tech [@plemaster01](https://github.com/plemaster01) for initiating and creating the original project!
 
 ## License
 
