@@ -462,6 +462,8 @@ if __name__ == "__main__":
     main()
 ```
 
+![Bam Boom](bam-boom/bam_boom_drum_sequencer.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
