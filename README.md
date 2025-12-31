@@ -6,7 +6,7 @@ The end goal is to create a Drum Sequencer that will play and loop through a seq
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Flask web framework.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the PyGame library.
 
 ```bash
 pip install pygame
@@ -16,13 +16,33 @@ File & Folder Path:
 
 ```
 .
-├── app.py
-├── __init__.py
-├── poetry_forms.py
-├── __pycache__
-│   └── poetry_forms.cpython-312.pyc
-└── templates
-    └── index.html
+└── bam-boom
+    ├── Courier-New.ttf
+    ├── Roboto-Bold.ttf
+    ├── __pycache__
+    │   └── main.cpython-313.pyc
+    ├── main.py
+    ├── saved_beats.txt
+    └── sounds
+        ├── CR78
+        ├── LM1
+        │   ├── BD LM1 Color A 15.wav
+        │   ├── BD No Filt LM1 Color A 08.wav
+        │   ├── CH Accent V1 LM1 Color Decay A 25.wav
+        │   ├── CH V1 LM1 Color Decay A 25.wav
+        │   ├── Cabasa LM1 Color B 07.wav
+        │   ├── Clap LM1 22.wav
+        │   ├── Clap LM1 Color B 02.wav
+        │   ├── Cowbell LM1 Color 15.wav
+        │   ├── OH V1 LM1 Color 25.wav
+        │   ├── Rimshot LM1 Color A 13.wav
+        │   ├── SD LM1 Color A 22.wav
+        │   ├── SD LM1 Color C 01.wav
+        │   ├── Tom A LM1 Color A 23.wav
+        │   ├── Tom A No Filt LM1 Color B 12.wav
+        │   ├── Tom B LM1 Color A 17.wav
+        │   ├── Tom B No Filt LM1 Color B 20.wav
+        ├── LinndrumKit
 ```
 
 ## Usage
